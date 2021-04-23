@@ -12,6 +12,7 @@ namespace Events
             var instance = new Program();
             instance.Notification += EmailNotification;
             instance.Notification += SMSNotification;
+            instance.Notification += SMSNotification;
 
             instance.Notification("info@devskill.com", "Hello World");
 
