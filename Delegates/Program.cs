@@ -15,15 +15,15 @@ namespace Delegates
             ProcessText(text, logic3);
         }
 
-        //public static void PritingMethod(string textToPrint)
-        //{
-        //    Console.WriteLine($"--::{textToPrint}::--");
-        //}
+        public static void PritingMethod(string textToPrint)
+        {
+            Console.WriteLine($"--::{textToPrint}::--");
+        }
 
-        //public static void NewPrintingMethod(string text)
-        //{
-        //    Console.WriteLine($"##--{text}--##");
-        //}
+        public static void NewPrintingMethod(string text)
+        {
+            Console.WriteLine($"##--{text}--##");
+        }
 
         static void ProcessText(string text, Perform perform)
         {
