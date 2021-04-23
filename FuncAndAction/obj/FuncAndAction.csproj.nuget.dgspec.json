@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Web development\\C sharp practice\\cSharpFeatures\\FuncAndAction\\FuncAndAction.csproj": {}
+    "H:\\Web development\\C sharp practice\\C-sharp-features\\FuncAndAction\\FuncAndAction.csproj": {}
   },
   "projects": {
-    "H:\\Web development\\C sharp practice\\cSharpFeatures\\FuncAndAction\\FuncAndAction.csproj": {
+    "H:\\Web development\\C sharp practice\\C-sharp-features\\FuncAndAction\\FuncAndAction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Web development\\C sharp practice\\cSharpFeatures\\FuncAndAction\\FuncAndAction.csproj",
+        "projectUniqueName": "H:\\Web development\\C sharp practice\\C-sharp-features\\FuncAndAction\\FuncAndAction.csproj",
         "projectName": "FuncAndAction",
-        "projectPath": "H:\\Web development\\C sharp practice\\cSharpFeatures\\FuncAndAction\\FuncAndAction.csproj",
+        "projectPath": "H:\\Web development\\C sharp practice\\C-sharp-features\\FuncAndAction\\FuncAndAction.csproj",
         "packagesPath": "C:\\Users\\joyh3\\.nuget\\packages\\",
-        "outputPath": "H:\\Web development\\C sharp practice\\cSharpFeatures\\FuncAndAction\\obj\\",
+        "outputPath": "H:\\Web development\\C sharp practice\\C-sharp-features\\FuncAndAction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joyh3\\AppData\\Roaming\\NuGet\\NuGet.Config",

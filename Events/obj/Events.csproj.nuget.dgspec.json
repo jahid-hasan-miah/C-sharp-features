@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Web development\\C sharp practice\\cSharpFeatures\\Events\\Events.csproj": {}
+    "H:\\Web development\\C sharp practice\\C-sharp-features\\Events\\Events.csproj": {}
   },
   "projects": {
-    "H:\\Web development\\C sharp practice\\cSharpFeatures\\Events\\Events.csproj": {
+    "H:\\Web development\\C sharp practice\\C-sharp-features\\Events\\Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Web development\\C sharp practice\\cSharpFeatures\\Events\\Events.csproj",
+        "projectUniqueName": "H:\\Web development\\C sharp practice\\C-sharp-features\\Events\\Events.csproj",
         "projectName": "Events",
-        "projectPath": "H:\\Web development\\C sharp practice\\cSharpFeatures\\Events\\Events.csproj",
+        "projectPath": "H:\\Web development\\C sharp practice\\C-sharp-features\\Events\\Events.csproj",
         "packagesPath": "C:\\Users\\joyh3\\.nuget\\packages\\",
-        "outputPath": "H:\\Web development\\C sharp practice\\cSharpFeatures\\Events\\obj\\",
+        "outputPath": "H:\\Web development\\C sharp practice\\C-sharp-features\\Events\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joyh3\\AppData\\Roaming\\NuGet\\NuGet.Config",

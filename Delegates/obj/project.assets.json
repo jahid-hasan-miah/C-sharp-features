@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Web development\\C sharp practice\\cSharpFeatures\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "H:\\Web development\\C sharp practice\\C-sharp-features\\Delegates\\Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "H:\\Web development\\C sharp practice\\cSharpFeatures\\Delegates\\Delegates.csproj",
+      "projectPath": "H:\\Web development\\C sharp practice\\C-sharp-features\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\joyh3\\.nuget\\packages\\",
-      "outputPath": "H:\\Web development\\C sharp practice\\cSharpFeatures\\Delegates\\obj\\",
+      "outputPath": "H:\\Web development\\C sharp practice\\C-sharp-features\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joyh3\\AppData\\Roaming\\NuGet\\NuGet.Config",

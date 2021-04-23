@@ -35,7 +35,7 @@ namespace Threads
 
         public static void WriteFile()
         {
-            var path = @"H:\Web development\C sharp practice\cSharpFeatures";
+            var path = @"H:\Web development\C sharp practice\C-sharp-features\file.txt";
             lock (path)
             {
                 File.WriteAllText(path, "Hello");

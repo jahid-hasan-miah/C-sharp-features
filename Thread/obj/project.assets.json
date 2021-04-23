@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Web development\\C sharp practice\\cSharpFeatures\\Thread\\Threads.csproj",
+      "projectUniqueName": "H:\\Web development\\C sharp practice\\C-sharp-features\\Thread\\Threads.csproj",
       "projectName": "Threads",
-      "projectPath": "H:\\Web development\\C sharp practice\\cSharpFeatures\\Thread\\Threads.csproj",
+      "projectPath": "H:\\Web development\\C sharp practice\\C-sharp-features\\Thread\\Threads.csproj",
       "packagesPath": "C:\\Users\\joyh3\\.nuget\\packages\\",
-      "outputPath": "H:\\Web development\\C sharp practice\\cSharpFeatures\\Thread\\obj\\",
+      "outputPath": "H:\\Web development\\C sharp practice\\C-sharp-features\\Thread\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joyh3\\AppData\\Roaming\\NuGet\\NuGet.Config",
