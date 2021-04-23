@@ -12,7 +12,7 @@ namespace FuncAndAction
 
         public static void NewPrintingMethod(string text)
         {
-            Console.WriteLine($"##--{text}--##--##--");
+            Console.WriteLine($"##--{text}--##--");
         }
 
         static void ProcessText(string text, Action<string> perform)
