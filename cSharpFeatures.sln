@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqJoinQuery", "LinqJoinQuery\LinqJoinQuery.csproj", "{92CD09C4-0676-46D0-A44F-C9C868A943B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resturant", "Resturant\Resturant.csproj", "{B6CBEFD5-9D45-4F3A-8053-00763DC6C9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{86336E12-442A-4413-AB2D-DA53F6DB26D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{92CD09C4-0676-46D0-A44F-C9C868A943B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92CD09C4-0676-46D0-A44F-C9C868A943B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92CD09C4-0676-46D0-A44F-C9C868A943B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CBEFD5-9D45-4F3A-8053-00763DC6C9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CBEFD5-9D45-4F3A-8053-00763DC6C9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CBEFD5-9D45-4F3A-8053-00763DC6C9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CBEFD5-9D45-4F3A-8053-00763DC6C9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86336E12-442A-4413-AB2D-DA53F6DB26D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86336E12-442A-4413-AB2D-DA53F6DB26D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86336E12-442A-4413-AB2D-DA53F6DB26D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86336E12-442A-4413-AB2D-DA53F6DB26D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
