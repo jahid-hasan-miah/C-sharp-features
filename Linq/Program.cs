@@ -58,7 +58,7 @@ namespace Linq
 
             //query5:applying linq ascending sort on name
             List<Student> result4 = new List<Student>(from name in result3
-                                    orderby name.Name
+                                    orderby name.Name,name.Age descending
                                     select name);
             //query6:applying linq ascending sort on name and descending sort on age
             List<Student> result5 = new List<Student>(from student in result3
