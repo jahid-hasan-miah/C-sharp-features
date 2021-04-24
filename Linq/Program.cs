@@ -10,7 +10,7 @@ namespace Linq
         {
             // initializing list1
             var list1 = new List<Student>() { 
-            new Student{Name="jahid",ClassName="bsc",Age=25,Division="dhaka",Group="science"},
+            new Student{Name="jahid",ClassName="bsc",Age=24,Division="dhaka",Group="science"},
             new Student{Name="Hasan",ClassName="bsc",Age=45,Division="Faridpur",Group="arts"},
             new Student{Name="Miah",ClassName="bsc",Age=85,Division="Chittagong",Group="commerce"}
             };
@@ -19,8 +19,8 @@ namespace Linq
             var list2 = new List<Student>()
             {
                 new Student{Name="sharmin",ClassName="honors",Age=24,Division="dhaka",Group="english"},
-                new Student{Name="Lota",ClassName="Hons",Age=50,Division="comilla",Group="science"},
-                new Student{Name="Shorno",ClassName="bss",Age=70,Division="Noakhali",Group="arts"}
+                new Student{Name="Lota",ClassName="Hons",Age=85,Division="comilla",Group="science"},
+                new Student{Name="Shorno",ClassName="bss",Age=45,Division="Noakhali",Group="arts"}
             };
 
             //printing list1
@@ -64,6 +64,11 @@ namespace Linq
             List<Student> result5 = new List<Student>(from student in result3
                                                       orderby student.Age
                                                       select student);
+
+            //query7:applying linq group by age
+            var result6 = from student in result3
+                          group student by student.Age;
+                          
 
             //printing query1 result
             Console.WriteLine("--------------------------------");
@@ -111,6 +116,19 @@ namespace Linq
             foreach (var Student in result5)
             {
                 Console.WriteLine(Student.Name + " " + Student.ClassName + " " + Student.Age + " " + Student.Group);
+            }
+
+            //printing query7 result
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("--------------Query-7-result----");
+            foreach (var Student in result6)
+            {
+                Console.WriteLine("Age: "+Student.Key);
+                foreach(var s in Student)
+                {
+                    Console.WriteLine(s.Name + " " + s.ClassName + " " + s.Age + " " + s.Group);
+                }
+                Console.WriteLine("--------------------------------");
             }
         }
     }
